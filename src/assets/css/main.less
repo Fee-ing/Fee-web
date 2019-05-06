@@ -1,0 +1,39 @@
+::-webkit-scrollbar{
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-button{
+  display: none;
+}
+::-webkit-scrollbar-track{
+  background: #ececec;
+}
+::-webkit-scrollbar-track-piece{
+  background: #fff;
+}
+::-webkit-scrollbar-thumb{
+  background: #ececec;
+  border-radius: 4px;
+}
+
+html, body{
+  position: relative;
+  height: 100%;
+  font-size: 10px;
+}
+
+#app {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  position: relative;
+  height: 100%;
+  overflow: hidden;
+  font-size: 1.6rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  transition: all 0.3s;
+}
