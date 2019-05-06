@@ -72,18 +72,6 @@ export const webConfig = {
       icon: 'http://www.pansoso.com/favicon.ico',
       desc: '盘搜搜网盘搜索引擎支持百度云搜索、115网盘、360云盘、华为网盘、新浪微盘等网盘搜索服务，是您工作、学习、娱乐的最佳百度云搜索神器。'
     },
-    {
-      name: '字幕库（字幕）',
-      url: 'http://www.zimuku.la/',
-      icon: 'http://www.zimuku.la/images/v2/favicon.png',
-      desc: '字幕，字幕下载，电影字幕下载，美剧字幕下载，韩剧字幕下载，中文字幕下载'
-    },
-    {
-      name: '六一电影（在线播放）',
-      url: 'http://www.61dy.com/',
-      icon: 'http://www.61dy.com/favicon.ico',
-      desc: '六一电影网提供最新电影最新电视剧，接受任何网友的求片，指在为您提供体验最好电影体验！'
-    }
   ],
   btSearch: [
     {
@@ -137,6 +125,12 @@ export const webConfig = {
   ],
   others: [
     {
+      name: '字幕库（字幕）',
+      url: 'http://www.zimuku.la/',
+      icon: 'http://www.zimuku.la/images/v2/favicon.png',
+      desc: '字幕，字幕下载，电影字幕下载，美剧字幕下载，韩剧字幕下载，中文字幕下载'
+    },
+    {
       name: '韩饭网（韩剧、韩综）',
       url: 'https://www.hanfan.cc/',
       icon: 'https://www.hanfan.cc/favicon.ico',
@@ -171,6 +165,12 @@ export const webConfig = {
       url: 'http://www.dilidili.name/',
       icon: 'http://www.dilidili.name/favicon.ico',
       desc: '嘀哩嘀哩，故被网友称为d站以及dilidili，无论您喜欢那种类型，嘀哩嘀哩都会筛选经典作品并将新作经典轮番推荐，相信嘀哩嘀哩都能为您一网打尽，为您带来一场美妙的动漫盛宴，这里是兴趣使然的嘀哩嘀哩。'
+    },
+    {
+      name: '六一电影（在线播放）',
+      url: 'http://www.61dy.com/',
+      icon: 'http://www.61dy.com/favicon.ico',
+      desc: '六一电影网提供最新电影最新电视剧，接受任何网友的求片，指在为您提供体验最好电影体验！'
     },
     {
       name: '风之动漫（漫画）',

@@ -70,6 +70,7 @@ export default {
         background-position: center;
         background-size: cover;
         background-repeat: no-repeat;
+        background-color: #ececec;
         margin-right: 5px;
       }
     }
