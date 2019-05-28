@@ -179,6 +179,12 @@ export const webConfig = {
       desc: '嘀哩嘀哩，故被网友称为d站以及dilidili，无论您喜欢那种类型，嘀哩嘀哩都会筛选经典作品并将新作经典轮番推荐，相信嘀哩嘀哩都能为您一网打尽，为您带来一场美妙的动漫盛宴，这里是兴趣使然的嘀哩嘀哩。'
     },
     {
+      name: '樱花动漫（动漫、在线播放）',
+      url: 'http://www.imomoe.io/',
+      icon: 'http://www.imomoe.io/favicon.ico',
+      desc: '樱花动漫拥有上万集高清晰画质的在线动漫，观看完全免费、无须注册、高速播放、更新及时的专业在线樱花动漫站，我们致力为所有动漫迷们提供最好看的动漫。'
+    },
+    {
       name: '六一电影（在线播放）',
       url: 'http://www.61dy.com/',
       icon: 'http://www.61dy.com/favicon.ico',
