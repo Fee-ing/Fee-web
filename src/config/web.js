@@ -131,6 +131,30 @@ export const webConfig = {
       desc: '字幕，字幕下载，电影字幕下载，美剧字幕下载，韩剧字幕下载，中文字幕下载'
     },
     {
+      name: 'Sub HD（字幕）',
+      url: 'https://subhd.com/',
+      icon: 'https://subhd.com/images/favicon-32x32.png',
+      desc: 'Sub HD为影视爱好者们提供交流字幕的平台，你可以在这里找到并下载字幕，对字幕打分和评论，也可以上传字幕与大家分享。'
+    },
+    {
+      name: '人人影视（美剧）',
+      url: 'http://www.zmz2019.com/',
+      icon: 'http://www.zmz2019.com/favicon.ico',
+      desc: '字幕组网站是由爱好者成员成立的网站，继续为您翻译最新最快的海外影视剧字幕，美剧，日剧，电影最新字幕下载'
+    },
+    {
+      name: '天天美剧（美剧）',
+      url: 'https://www.ttkmj.net/',
+      icon: 'https://www.ttkmj.net/favicon.ico',
+      desc: '天天美剧网站(www.ttkmj.net)为全球的美剧爱好者们提供美剧的下载地址，最新资讯，热门评论，在线观看等服务，天天美剧网，美剧爱好者的天堂。'
+    },
+    {
+      name: '一站搜（美剧）',
+      url: 'http://videos.yizhansou.com/',
+      icon: '',
+      desc: '一站搜专注于美剧搜索，方便大家愉快地观看, 请大家记住一站搜。'
+    },
+    {
       name: '韩饭网（韩剧、韩综）',
       url: 'https://www.hanfan.cc/',
       icon: 'https://www.hanfan.cc/favicon.ico',
@@ -141,18 +165,6 @@ export const webConfig = {
       url: 'https://www.hanjuwang.com/',
       icon: 'https://www.hanjuwang.com/favicon.ico',
       desc: '提供最新韩剧、韩国电影、韩国综艺、韩娱新闻、韩剧海报剧照、韩国明星资料、韩剧OST、韩剧剧情及韩剧收视率等的介绍和评论，找韩剧就上韩剧网。'
-    },
-    {
-      name: '人人影视（美剧）',
-      url: 'http://www.zmz2019.com/',
-      icon: 'http://www.zmz2019.com/favicon.ico',
-      desc: '字幕组网站是由爱好者成员成立的网站，继续为您翻译最新最快的海外影视剧字幕，美剧，日剧，电影最新字幕下载'
-    },
-    {
-      name: '一站搜（美剧）',
-      url: 'http://videos.yizhansou.com/',
-      icon: '',
-      desc: '一站搜专注于美剧搜索，方便大家愉快地观看, 请大家记住一站搜。'
     },
     {
       name: '追新番（日剧）',
@@ -178,6 +190,24 @@ export const webConfig = {
       icon: 'https://www.fzdm.com/favicon.ico',
       desc: '风之动漫 - 在线漫画 日本动漫 火影忍者漫画 海贼王漫画'
     },
+    {
+      name: 'MSDN（软件）',
+      url: 'https://msdn.itellyou.cn/',
+      icon: 'https://msdn.itellyou.cn/favicon.ico',
+      desc: '操作系统、开发工具、应用程序等资源库'
+    },
+    {
+      name: 'Awesome Windows（软件）',
+      url: 'https://github.com/Awesome-Windows/Awesome/blob/master/README-cn.md?pageName=tab_recommend&utm_source=wechat_session',
+      icon: 'https://github.githubassets.com/favicon.ico',
+      desc: 'Windows上优质&精选的最佳应用程序及工具列表'
+    },
+    // {
+    //   name: 'Hosts（FQ）',
+    //   url: 'https://github.com/googlehosts/hosts',
+    //   icon: 'https://github.githubassets.com/favicon.ico',
+    //   desc: '翻墙hosts文件'
+    // },
   ],
   vip: [
     {

@@ -50,7 +50,7 @@ export default {
   margin: 0 auto;
   .title{
     font-size: 16px;
-    font-weight: 600;
+    font-weight: 500;
     text-align: center;
     margin: 30px 0;
   }
@@ -72,6 +72,9 @@ export default {
         background-repeat: no-repeat;
         background-color: #ececec;
         margin-right: 5px;
+      }
+      a{
+        color: #333;
       }
     }
   }
