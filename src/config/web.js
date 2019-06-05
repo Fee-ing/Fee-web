@@ -181,7 +181,7 @@ export const webConfig = {
     {
       name: '樱花动漫（动漫、在线播放）',
       url: 'http://www.imomoe.io/',
-      icon: 'http://www.imomoe.io/favicon.ico',
+      icon: '',
       desc: '樱花动漫拥有上万集高清晰画质的在线动漫，观看完全免费、无须注册、高速播放、更新及时的专业在线樱花动漫站，我们致力为所有动漫迷们提供最好看的动漫。'
     },
     {
@@ -195,25 +195,7 @@ export const webConfig = {
       url: 'https://www.fzdm.com/',
       icon: 'https://www.fzdm.com/favicon.ico',
       desc: '风之动漫 - 在线漫画 日本动漫 火影忍者漫画 海贼王漫画'
-    },
-    {
-      name: 'MSDN（软件）',
-      url: 'https://msdn.itellyou.cn/',
-      icon: 'https://msdn.itellyou.cn/favicon.ico',
-      desc: '操作系统、开发工具、应用程序等资源库'
-    },
-    {
-      name: 'Awesome Windows（软件）',
-      url: 'https://github.com/Awesome-Windows/Awesome/blob/master/README-cn.md?pageName=tab_recommend&utm_source=wechat_session',
-      icon: 'https://github.githubassets.com/favicon.ico',
-      desc: 'Windows上优质&精选的最佳应用程序及工具列表'
-    },
-    // {
-    //   name: 'Hosts（FQ）',
-    //   url: 'https://github.com/googlehosts/hosts',
-    //   icon: 'https://github.githubassets.com/favicon.ico',
-    //   desc: '翻墙hosts文件'
-    // },
+    }
   ],
   vip: [
     {
