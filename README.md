@@ -1,4 +1,4 @@
-# smart-jewel-store-system-management-panel
+# 视频资源网站整合
 
 ## Project setup
 ```
