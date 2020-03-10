@@ -87,6 +87,12 @@ export const webConfig = {
       desc: 'BT库-最新最全的BT种子搜索大全聚合排名'
     },
     {
+      name: '磁力搜索导航',
+      url: 'https://lai.yuweining.cn/archives/909/#menu_index_2',
+      icon: 'https://lai.yuweining.cn/favicon.ico',
+      desc: '磁力搜索网站汇总'
+    },
+    {
       name: '磁力搜',
       url: 'https://biedian.me/',
       icon: 'https://biedian.me/favicon.ico',
@@ -139,12 +145,6 @@ export const webConfig = {
       url: 'https://rarbgprx.org/torrents.php',
       icon: 'https://rarbgprx.org/favicon.ico',
       desc: 'Torrents , movies , download , music , games , free , RARBG Torrents , filmi , download'
-    },
-    {
-      name: '磁力搜索导航',
-      url: 'https://lai.yuweining.cn/archives/909/#menu_index_2',
-      icon: 'https://lai.yuweining.cn/favicon.ico',
-      desc: '磁力搜索网站汇总'
     },
   ],
   others: [
