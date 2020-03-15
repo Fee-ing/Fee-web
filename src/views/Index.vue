@@ -1,31 +1,12 @@
 <template>
   <div class="page">
-    <div class="title">推荐网站</div>
-    <div class="web-wrapper">
-      <div class="web" v-for="(item, index) in webConfig.recommend" :key="index" :title="item.desc">
-        <span class="icon" v-if="item.icon" :style="{ backgroundImage: 'url(' + item.icon + ')'}"></span>
-        <a :href="item.url" target="_blank">{{item.name}}</a>
-      </div>
-    </div>
-    <div class="title">磁力搜索</div>
-    <div class="web-wrapper">
-      <div class="web" v-for="(item, index) in webConfig.btSearch" :key="index" :title="item.desc">
-        <span class="icon" v-if="item.icon" :style="{ backgroundImage: 'url(' + item.icon + ')'}"></span>
-        <a :href="item.url" target="_blank">{{item.name}}</a>
-      </div>
-    </div>
-    <div class="title">其他分类</div>
-    <div class="web-wrapper">
-      <div class="web" v-for="(item, index) in webConfig.others" :key="index" :title="item.desc">
-        <span class="icon" v-if="item.icon" :style="{ backgroundImage: 'url(' + item.icon + ')'}"></span>
-        <a :href="item.url" target="_blank">{{item.name}}</a>
-      </div>
-    </div>
-    <div class="title">VIP解析</div>
-    <div class="web-wrapper">
-      <div class="web" v-for="(item, index) in webConfig.vip" :key="index" :title="item.desc">
-        <span class="icon" v-if="item.icon" :style="{ backgroundImage: 'url(' + item.icon + ')'}"></span>
-        <a :href="item.url" target="_blank">{{item.name}}</a>
+    <div v-for="(item, index) in webConfig" :key="index">
+      <div class="title">{{item.title}}</div>
+      <div class="web-wrapper">
+        <div class="web" v-for="(web, idx) in item.web" :key="idx" :title="web.desc">
+          <span class="icon" v-if="web.icon" :style="{ backgroundImage: 'url(' + web.icon + ')'}"></span>
+          <a :href="web.url" target="_blank">{{web.name}}</a>
+        </div>
       </div>
     </div>
   </div>
