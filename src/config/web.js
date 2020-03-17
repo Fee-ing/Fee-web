@@ -68,12 +68,12 @@ export const webConfig = [
         icon: 'http://allyingshi.com/favicon.ico',
         desc: '人人影视网址大全，这里为您搜集了优秀的影视资源下载站和在线观看站，以及字幕下载站，片源站，请长期保存'
       },
-      {
-        name: '番号库',
-        url: 'http://www.okfanhao.com/',
-        icon: 'http://www.okfanhao.com/templets/css/favicon.ico',
-        desc: '番号列表,番号搜索,番号大全,番号封面海报,磁力番号,番号库,号号库'
-      },
+      // {
+      //   name: '番号库',
+      //   url: 'http://www.okfanhao.com/',
+      //   icon: 'http://www.okfanhao.com/templets/css/favicon.ico',
+      //   desc: '番号列表,番号搜索,番号大全,番号封面海报,磁力番号,番号库,号号库'
+      // },
       {
         name: '盘搜搜（百度云）',
         url: 'http://www.pansoso.com/',
