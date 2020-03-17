@@ -3,12 +3,6 @@ export const webConfig = [
     title: '推荐网站',
     web: [
       {
-        name: 'BT之家',
-        url: 'http://www.2btjia.com/',
-        icon: 'http://www.2btjia.com/favicon.ico',
-        desc: 'BT之家是个提供BT下载，bt种子的bt电影下载论坛'
-      },
-      {
         name: '高清电台',
         url: 'https://gaoqing.fm/',
         icon: 'https://gaoqing.fm/favicon.ico',
@@ -25,6 +19,18 @@ export const webConfig = [
         url: 'http://www.loldytit.com/',
         icon: 'http://www.loldytit.com/favicon.ico',
         desc: 'LOL电影天堂最好的迅雷电影下载网，提供最新电影下载、lol电影天堂高清电影迅雷下载和bt种子、最新综艺、动漫、电视剧等下载，最新好看的电影下载首选lol电影天堂！'
+      },
+      {
+        name: '人人影视（美剧）',
+        url: 'http://www.rrys2019.com/',
+        icon: 'http://www.rrys2019.com/favicon.ico',
+        desc: '字幕组网站是由爱好者成员成立的网站，继续为您翻译最新最快的海外影视剧字幕，美剧，日剧，电影最新字幕下载'
+      },
+      {
+        name: 'BT之家',
+        url: 'http://www.2btjia.com/',
+        icon: 'http://www.2btjia.com/favicon.ico',
+        desc: 'BT之家是个提供BT下载，bt种子的bt电影下载论坛'
       },
       {
         name: '大狗狗影视',
@@ -79,6 +85,12 @@ export const webConfig = [
         url: 'http://www.pansoso.com/',
         icon: 'http://www.pansoso.com/favicon.ico',
         desc: '盘搜搜网盘搜索引擎支持百度云搜索、115网盘、360云盘、华为网盘、新浪微盘等网盘搜索服务，是您工作、学习、娱乐的最佳百度云搜索神器。'
+      },
+      {
+        name: '字幕库（字幕）',
+        url: 'http://www.zimuku.la/',
+        icon: 'http://www.zimuku.la/images/v2/favicon.png',
+        desc: '字幕，字幕下载，电影字幕下载，美剧字幕下载，韩剧字幕下载，中文字幕下载'
       },
     ]
   },
@@ -157,12 +169,6 @@ export const webConfig = [
     title: '其他分类',
     web: [
       {
-        name: '字幕库（字幕）',
-        url: 'http://www.zimuku.la/',
-        icon: 'http://www.zimuku.la/images/v2/favicon.png',
-        desc: '字幕，字幕下载，电影字幕下载，美剧字幕下载，韩剧字幕下载，中文字幕下载'
-      },
-      {
         name: '射手网（字幕）',
         url: 'https://secure.assrt.net/',
         icon: 'https://secure.assrt.net/favicon.ico',
@@ -173,12 +179,6 @@ export const webConfig = [
         url: 'https://subhd.com/',
         icon: 'https://subhd.com/images/favicon-32x32.png',
         desc: 'Sub HD为影视爱好者们提供交流字幕的平台，你可以在这里找到并下载字幕，对字幕打分和评论，也可以上传字幕与大家分享。'
-      },
-      {
-        name: '人人影视（美剧）',
-        url: 'http://www.rrys2019.com/',
-        icon: 'http://www.rrys2019.com/favicon.ico',
-        desc: '字幕组网站是由爱好者成员成立的网站，继续为您翻译最新最快的海外影视剧字幕，美剧，日剧，电影最新字幕下载'
       },
       {
         name: '天天美剧（美剧）',
