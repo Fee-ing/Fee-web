@@ -182,8 +182,8 @@ export const webConfig = [
       },
       {
         name: '天天美剧（美剧）',
-        url: 'https://www.ttkmj.net/',
-        icon: 'https://www.ttkmj.net/favicon.ico',
+        url: 'http://ttmeiju.site/',
+        icon: 'http://ttmeiju.site/favicon.ico',
         desc: '天天美剧网站(www.ttkmj.net)为全球的美剧爱好者们提供美剧的下载地址，最新资讯，热门评论，在线观看等服务，天天美剧网，美剧爱好者的天堂。'
       },
       {
