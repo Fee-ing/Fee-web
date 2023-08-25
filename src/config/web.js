@@ -44,6 +44,12 @@ export const webConfig = [
         icon: 'https://xn--yets15cv4k.com/favicon.ico',
         desc: '磁力猫地址发布页'
       },
+      {
+        name: 'Yandex',
+        url: 'https://yandex.com/',
+        icon: 'https://yastatic.net/s3/home-static/_/a5/a557b72322add07a6b41fc8f71cfffc8.png',
+        desc: '功能强大的搜索网站'
+      },
     ]
   },
   {
@@ -84,6 +90,18 @@ export const webConfig = [
   {
     title: '在线播放',
     web: [
+      {
+        name: '茶杯狐',
+        url: 'https://cupfox.app/',
+        icon: 'https://picx.zhimg.com/80/v2-de36e385e59fcca2df694b76f108431a.png',
+        desc: '茶杯狐是中国最大的影视资源聚合搜索引擎，实时聚合全网优质影视资源，同时支持在线、下载和字幕。电影、电视剧、动漫、综艺应有尽有。'
+      },
+      {
+        name: 'HDmoli',
+        url: 'https://www.hdmoli.com/',
+        icon: 'https://www.hdmoli.com/favicon.ico',
+        desc: 'HDMOLI 提供免费、高品质、同时支持电脑和移动设备的影视剧在线观看网站'
+      },
       {
         name: '七号影视',
         url: 'https://www.num7.xyz/',
