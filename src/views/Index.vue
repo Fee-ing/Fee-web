@@ -4,7 +4,7 @@
       <div class="title">{{item.title}}</div>
       <div class="web-wrapper">
         <div class="web" v-for="(web, idx) in item.web" :key="idx" :title="web.desc">
-          <span class="icon" v-if="web.icon" :style="{ backgroundImage: 'url(' + web.icon + ')'}"></span>
+          <img class="icon" v-if="web.icon" :src="web.icon" />
           <a :href="web.url" target="_blank">{{web.name}}</a>
         </div>
       </div>
@@ -47,10 +47,7 @@ export default {
       .icon{
         display: block;
         width: 15px;
-        height: 15px;
-        background-position: center;
-        background-size: cover;
-        background-repeat: no-repeat;
+        height: auto;
         background-color: #ececec;
         margin-right: 5px;
       }
