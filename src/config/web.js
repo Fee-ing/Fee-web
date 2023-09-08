@@ -103,10 +103,10 @@ export const webConfig = [
         desc: 'HDMOLI 提供免费、高品质、同时支持电脑和移动设备的影视剧在线观看网站'
       },
       {
-        name: '七号影视',
-        url: 'https://www.num7.xyz/',
-        icon: 'https://cdn.jsdelivr.net/gh/ifuncool/num7cloud/3b613b27aeb44ec51a29b21793c57f06.png',
-        desc: '提供最新最快的影视资源'
+        name: '追剧兔',
+        url: 'https://www.zjtu.tv/',
+        icon: 'https://www.zjtu.tv/upload/site/20230508-1/8e65462275e181c877cbc72d4b66c89b.png',
+        desc: '追剧兔,追剧兔,视频分享,免费视频,在线视频,官网,追剧兔官网'
       },
       {
         name: '独播库',
@@ -127,6 +127,18 @@ export const webConfig = [
         desc: '超清视频站'
       },
       {
+        name: '皮皮鸭',
+        url: 'https://www.ppya.me/',
+        icon: 'https://mobilepics.ws.126.net/Gn6c6lOA4elu1cwaJenAczYcFGLd8txV0jttuhmk9.png',
+        desc: '皮皮鸭影视(www.ppya.me)提供最新最快的电视剧、高清电影、经典动漫、综艺娱乐节目免费在线播放,皮皮鸭影院专注打造精品电影网站!'
+      },
+      {
+        name: '皮皮鸭地址发布页',
+        url: 'https://www.ppydy.com/',
+        icon: 'https://mobilepics.ws.126.net/Gn6c6lOA4elu1cwaJenAczYcFGLd8txV0jttuhmk9.png',
+        desc: '皮皮鸭地址发布页'
+      },
+      {
         name: '厂长资源',
         url: 'https://czys.me//',
         icon: 'https://img.py1080p.com//2021/10/5c7a67356cec28.ico',
@@ -136,7 +148,37 @@ export const webConfig = [
         name: '厂长资源地址发布页',
         url: 'https://www.cz01.vip/',
         icon: 'https://img.py1080p.com//2021/10/5c7a67356cec28.ico',
-        desc: '厂长资源地址发布页！'
+        desc: '厂长资源地址发布页'
+      },
+      {
+        name: 'JOJO',
+        url: 'https://jojo.bdys.top/',
+        icon: 'https://jojo.bdys.top/images/favicon.ico',
+        desc: '在线美剧天堂,在线日剧推荐,在线韩剧网'
+      },
+      {
+        name: '小鹿影视',
+        url: 'https://www.xiaoluys.me/',
+        icon: 'https://pic.rmb.bdstatic.com/bjh/user/95affcac969b8549f75cd879d31aff0c.png',
+        desc: '小鹿影视每天更新全网最全最高清的电影,电视,动漫,综艺,纪录片等影音节目,您追剧的最佳选择小鹿影视手机免费看大片！'
+      },
+      {
+        name: '七号影视',
+        url: 'https://www.num7.xyz/',
+        icon: 'https://cdn.jsdelivr.net/gh/ifuncool/num7cloud/3b613b27aeb44ec51a29b21793c57f06.png',
+        desc: '提供最新最快的影视资源'
+      },
+      {
+        name: 'FreeOK',
+        url: 'https://www.freeok.vip/',
+        icon: 'https://www.freeok.vip/mxtheme/images/favicon.png',
+        desc: '在线影视资源'
+      },
+      {
+        name: '333影视',
+        url: 'https://www.333ys.tv/',
+        icon: 'https://www.333ys.tv/template/mytheme/statics/img/favicon.ico',
+        desc: '【333影视】(www.ylwt33.com)为您提供2022vip热播电视剧全集高清电影手机免费在线观看服务【无广告不卡顿】333影视每天第一时间更新,更多精彩经典在线视频尽在333影视。'
       },
       {
         name: '樱花动漫',
