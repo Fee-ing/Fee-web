@@ -85,6 +85,12 @@ export const webConfig = [
         icon: 'http://www.dygangs.net/favicon.ico',
         desc: '电影港-每天搜集最新的电影，高清电影，720p高清电影，1080p高清电影，的免费下载。专注于高清电影的下载服务。'
       },
+      {
+        name: '4KHDR',
+        url: 'https://www.4khdr.cn/',
+        icon: 'https://www.4khdr.cn/favicon.ico',
+        desc: '4KHDR世界是专业的4K电影下载站,网站风格简洁直观,提供4K蓝光原盘HDR杜比视界电影、美剧、纪录片、动画片资源,坚持每天更新,与全球破解小组同步,第一时间分享磁力链接支持迅雷高速下载! ,4KHDR世界'
+      },
     ]
   },
   {
