@@ -55,11 +55,17 @@ export const webConfig = [
   {
     title: '资源下载',
     web: [
+      // {
+      //   name: '高清电台',
+      //   url: 'https://gaoqing.fm/',
+      //   icon: 'https://gaoqing.fm/favicon.ico',
+      //   desc: '高清电台每天关注高清电影的720p高清、1080p高清、蓝光原盘高清、高清3d高清、高清mv的磁力链接下载、在线直播、预告片及资讯，是高清电影下载的电影天堂！'
+      // },
       {
-        name: '高清电台',
-        url: 'https://gaoqing.fm/',
-        icon: 'https://gaoqing.fm/favicon.ico',
-        desc: '高清电台每天关注高清电影的720p高清、1080p高清、蓝光原盘高清、高清3d高清、高清mv的磁力链接下载、在线直播、预告片及资讯，是高清电影下载的电影天堂！'
+        name: '中国高清网',
+        url: 'http://gaoqing.io/',
+        icon: 'https://gaoqing.la/wp-content/themes/Loostrive/images/favicon.ico',
+        desc: '中国高清网是每天关注提供720p高清、1080p高清、蓝光原盘高清、4K高清、最新热门bt种子磁力链迅雷下载网站，是下载了解高清电影的天堂！'
       },
       {
         name: '80s电影网',
@@ -158,16 +164,16 @@ export const webConfig = [
       },
       {
         name: 'JOJO',
-        url: 'https://jojo.bdys.top/',
-        icon: 'https://jojo.bdys.top/images/favicon.ico',
+        url: 'https://jiohub.top/',
+        icon: 'https://jiohub.top/images/favicon.ico',
         desc: '在线美剧天堂,在线日剧推荐,在线韩剧网'
       },
-      {
-        name: '小鹿影视',
-        url: 'https://www.xiaoluys.me/',
-        icon: 'https://pic.rmb.bdstatic.com/bjh/user/95affcac969b8549f75cd879d31aff0c.png',
-        desc: '小鹿影视每天更新全网最全最高清的电影,电视,动漫,综艺,纪录片等影音节目,您追剧的最佳选择小鹿影视手机免费看大片！'
-      },
+      // {
+      //   name: '小鹿影视',
+      //   url: 'https://www.xiaoluys.me/',
+      //   icon: 'https://pic.rmb.bdstatic.com/bjh/user/95affcac969b8549f75cd879d31aff0c.png',
+      //   desc: '小鹿影视每天更新全网最全最高清的电影,电视,动漫,综艺,纪录片等影音节目,您追剧的最佳选择小鹿影视手机免费看大片！'
+      // },
       {
         name: '七号影视',
         url: 'https://www.num7.xyz/',
@@ -194,7 +200,7 @@ export const webConfig = [
       },
       {
         name: 'AEG动漫',
-        url: 'https://www.agemys.org/',
+        url: 'http://www.age.tv/',
         icon: 'https://www.agemys.org/favicon.ico',
         desc: 'Age动漫专业的在线动漫网站，动漫免费在线观看，高品质画质，实时更新，追番利器!'
       },
