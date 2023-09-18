@@ -67,12 +67,12 @@ export const webConfig = [
         icon: 'https://gaoqing.la/wp-content/themes/Loostrive/images/favicon.ico',
         desc: '中国高清网是每天关注提供720p高清、1080p高清、蓝光原盘高清、4K高清、最新热门bt种子磁力链迅雷下载网站，是下载了解高清电影的天堂！'
       },
-      {
-        name: '80s电影网',
-        url: 'https://www.80s.tw/',
-        icon: 'https://www.80s.tw/favicon.ico',
-        desc: '80s电影网(www.80sgod.com)提供最新高清MP4电影,电视剧,动漫下载.采用迅雷磁力链方式下载,免费手机电影电视剧就上80s电影天堂'
-      },
+      // {
+      //   name: '80s电影网',
+      //   url: 'https://www.80s.tw/',
+      //   icon: 'https://www.80s.tw/favicon.ico',
+      //   desc: '80s电影网(www.80sgod.com)提供最新高清MP4电影,电视剧,动漫下载.采用迅雷磁力链方式下载,免费手机电影电视剧就上80s电影天堂'
+      // },
       {
         name: '电影天堂',
         url: 'https://www.dytt8.net/',
@@ -96,6 +96,12 @@ export const webConfig = [
         url: 'https://www.4khdr.cn/',
         icon: 'https://www.4khdr.cn/favicon.ico',
         desc: '4KHDR世界是专业的4K电影下载站,网站风格简洁直观,提供4K蓝光原盘HDR杜比视界电影、美剧、纪录片、动画片资源,坚持每天更新,与全球破解小组同步,第一时间分享磁力链接支持迅雷高速下载! ,4KHDR世界'
+      },
+      {
+        name: '极速BT',
+        url: 'https://jisubt.com/',
+        icon: 'https://jisubt.com/favicon.ico',
+        desc: '最新影视资源下载'
       },
     ]
   },
