@@ -158,7 +158,7 @@ export const webConfig = [
       },
       {
         name: '厂长资源',
-        url: 'https://czys.me//',
+        url: 'https://www.cz0101.com/',
         icon: 'https://img.py1080p.com//2021/10/5c7a67356cec28.ico',
         desc: '电影港-厂长资源(CZZY)为您提供海量1080p经典影视免费观看！'
       },
