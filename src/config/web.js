@@ -63,7 +63,7 @@ export const webConfig = [
       // },
       {
         name: '中国高清网',
-        url: 'http://gaoqing.io/',
+        url: 'https://gaoqing.la/',
         icon: 'https://gaoqing.la/wp-content/themes/Loostrive/images/favicon.ico',
         desc: '中国高清网是每天关注提供720p高清、1080p高清、蓝光原盘高清、4K高清、最新热门bt种子磁力链迅雷下载网站，是下载了解高清电影的天堂！'
       },
@@ -87,8 +87,8 @@ export const webConfig = [
       },
       {
         name: '电影港',
-        url: 'http://www.dygangs.net/',
-        icon: 'http://www.dygangs.net/favicon.ico',
+        url: 'https://www.dygang.cc/',
+        icon: 'https://www.dygang.cc/favicon.ico',
         desc: '电影港-每天搜集最新的电影，高清电影，720p高清电影，1080p高清电影，的免费下载。专注于高清电影的下载服务。'
       },
       {
@@ -97,12 +97,12 @@ export const webConfig = [
         icon: 'https://www.4khdr.cn/favicon.ico',
         desc: '4KHDR世界是专业的4K电影下载站,网站风格简洁直观,提供4K蓝光原盘HDR杜比视界电影、美剧、纪录片、动画片资源,坚持每天更新,与全球破解小组同步,第一时间分享磁力链接支持迅雷高速下载! ,4KHDR世界'
       },
-      {
-        name: '极速BT',
-        url: 'https://jisubt.com/',
-        icon: 'https://jisubt.com/favicon.ico',
-        desc: '最新影视资源下载'
-      },
+      // {
+      //   name: '极速BT',
+      //   url: 'https://jisubt.com/',
+      //   icon: 'https://jisubt.com/favicon.ico',
+      //   desc: '最新影视资源下载'
+      // },
     ]
   },
   {
@@ -116,8 +116,8 @@ export const webConfig = [
       },
       {
         name: 'HDmoli',
-        url: 'https://www.hdmoli.com/',
-        icon: 'https://www.hdmoli.com/favicon.ico',
+        url: 'https://www.hdmoli.pro/',
+        icon: 'https://www.hdmoli.pro/favicon.ico',
         desc: 'HDMOLI 提供免费、高品质、同时支持电脑和移动设备的影视剧在线观看网站'
       },
       {
@@ -140,7 +140,7 @@ export const webConfig = [
       },
       {
         name: 'LIBVIO',
-        url: 'https://www.libvio.la/',
+        url: 'https://www.libvio.pro/',
         icon: 'https://xiaoxiaojia.oss-cn-shanghai.aliyuncs.com/statics/img/favicon.ico',
         desc: '超清视频站'
       },
@@ -158,7 +158,7 @@ export const webConfig = [
       },
       {
         name: '厂长资源',
-        url: 'https://www.cz0101.com/',
+        url: 'https://www.czzy88.com/',
         icon: 'https://img.py1080p.com//2021/10/5c7a67356cec28.ico',
         desc: '电影港-厂长资源(CZZY)为您提供海量1080p经典影视免费观看！'
       },
@@ -186,22 +186,22 @@ export const webConfig = [
         icon: 'https://cdn.jsdelivr.net/gh/ifuncool/num7cloud/3b613b27aeb44ec51a29b21793c57f06.png',
         desc: '提供最新最快的影视资源'
       },
-      {
-        name: 'FreeOK',
-        url: 'https://www.freeok.vip/',
-        icon: 'https://www.freeok.vip/mxtheme/images/favicon.png',
-        desc: '在线影视资源'
-      },
+      // {
+      //   name: 'FreeOK',
+      //   url: 'https://www.freeok.vip/',
+      //   icon: 'https://www.freeok.vip/mxtheme/images/favicon.png',
+      //   desc: '在线影视资源'
+      // },
       {
         name: '333影视',
-        url: 'https://www.333ys.tv/',
-        icon: 'https://www.333ys.tv/template/mytheme/statics/img/favicon.ico',
+        url: 'https://www.333ys.fun/',
+        icon: 'https://www.333ys.fun/template/mytheme/statics/img/favicon.ico',
         desc: '【333影视】(www.ylwt33.com)为您提供2022vip热播电视剧全集高清电影手机免费在线观看服务【无广告不卡顿】333影视每天第一时间更新,更多精彩经典在线视频尽在333影视。'
       },
       {
         name: '樱花动漫',
-        url: 'http://www.yinghuavideo.com/',
-        icon: 'http://www.yinghuavideo.com/js/20180601/favicon.ico',
+        url: 'http://www.iyinghua.io/',
+        icon: 'http://www.iyinghua.io/js/20180601/favicon.ico',
         desc: '樱花动漫拥有上万集高清晰画质的在线动漫，观看完全免费、无须注册、高速播放、更新及时的专业在线樱花动漫站，我们致力为所有动漫迷们提供最好看的动漫。'
       },
       {
