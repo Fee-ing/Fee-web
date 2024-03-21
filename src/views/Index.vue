@@ -4,7 +4,7 @@
       <div class="title">{{item.title}}</div>
       <div class="web-wrapper">
         <div class="web" v-for="(web, idx) in item.web" :key="idx" :title="web.desc">
-          <img class="icon" v-if="web.icon" :src="web.icon" />
+          <img class="icon" v-if="web.icon" v-lazy="web.icon" />
           <a :href="web.url" target="_blank">{{web.name}}</a>
         </div>
       </div>
